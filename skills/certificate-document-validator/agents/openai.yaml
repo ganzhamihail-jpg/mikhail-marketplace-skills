@@ -1,0 +1,4 @@
+interface:
+  display_name: "Certificate Document Validator"
+  short_description: "Проверка сертификатов и документов"
+  default_prompt: "Use $certificate-document-validator to validate product certificate files and SKU bindings before upload."

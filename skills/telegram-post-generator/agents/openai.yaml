@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telegram Post Generator"
+  short_description: "Посты для Telegram о маркетплейсах"
+  default_prompt: "Use $telegram-post-generator to draft a practical Telegram post for marketplace sellers."

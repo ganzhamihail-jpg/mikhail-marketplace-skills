@@ -1,0 +1,4 @@
+interface:
+  display_name: "Weekly Profit Report"
+  short_description: "Еженедельный отчет по прибыли"
+  default_prompt: "Use $weekly-profit-report to turn weekly marketplace data into a concise profit report."

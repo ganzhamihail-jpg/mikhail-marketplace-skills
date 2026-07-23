@@ -1,0 +1,4 @@
+interface:
+  display_name: "WB Advertising Expert"
+  short_description: "Аудит и оптимизация рекламы Wildberries"
+  default_prompt: "Use $wb-advertising-expert to audit a Wildberries advertising campaign and produce prioritized actions."

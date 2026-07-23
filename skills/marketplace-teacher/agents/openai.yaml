@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketplace Teacher"
+  short_description: "Обучение работе с маркетплейсами"
+  default_prompt: "Use $marketplace-teacher to create a practical lesson with exercises and an answer key."

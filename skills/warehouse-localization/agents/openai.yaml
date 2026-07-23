@@ -1,0 +1,4 @@
+interface:
+  display_name: "Warehouse Localization"
+  short_description: "План поставок и локализации запасов"
+  default_prompt: "Use $warehouse-localization to build a warehouse replenishment and redistribution plan."

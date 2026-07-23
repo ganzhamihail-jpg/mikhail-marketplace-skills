@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unit Economics"
+  short_description: "Расчет юнит-экономики товара"
+  default_prompt: "Use $unit-economics to calculate unit economics and the break-even price for a marketplace SKU."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marketplace Finance Analyst"
+  short_description: "Финансовый анализ маркетплейсов"
+  default_prompt: "Use $marketplace-finance-analyst to reconcile a marketplace report and explain profit drivers."
